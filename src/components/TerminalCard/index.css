@@ -1,0 +1,19 @@
+.terminal-card {
+  display: flex;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 250px;
+}
+.terminal-image{
+  width: 100px;
+}
+
+.terminal-card h4 {
+  margin: 10px 0;
+  font-size: 16px;
+}
+.terminal-card p{
+  font-size: 14px;
+}
